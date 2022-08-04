@@ -1,0 +1,27 @@
+{
+  "name": "back_banco-digital",
+  "version": "1.0.0",
+  "description": "Desafio do Módulo 2 de back End do curso de Desenvolvimento de Software da Cubos Academy.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonelBarreto/BACK_Banco-Digital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonelBarreto/BACK_Banco-Digital/issues"
+  },
+  "homepage": "https://github.com/LeonelBarreto/BACK_Banco-Digital#readme",
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
